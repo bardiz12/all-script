@@ -1,5 +1,5 @@
 # all-script
-all simple script that i write to make life easier wkwkw
+all simple script that i wrote to make life easier wkwkw
 
 | Script                                          | Description   |
 | ----------------------------------------------- | ------------- |
