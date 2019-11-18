@@ -6,3 +6,6 @@ usage :
 ```
 python cmd.py [URL]
 #the parameter has to be included in [URL] like : http://target.site/my/backdoor.php?cmd=
+```
+Screenshot
+![Screenshot](./screenshot.png)
