@@ -5,3 +5,4 @@ all simple script that i wrote to make life easier wkwkw
 | ----------------------------------------------- | ------------- |
 | [Heroku Environment Setter](heroku-env-setter)  | A python script to automate setting the heroku's CONFIG VARS from existing .env file  |
 | [Simple Web Backdoor Handler](simple-backdoor-handler)   | A simple Python script to easily access your web backdoor |
+| [Zulu link to Youtube](zulu-to-youtube) | Convert your zulu link to youtube
